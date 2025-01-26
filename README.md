@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14742286.svg)](https://doi.org/10.5281/zenodo.14742286)
+
 # ALTERED PERCEPTIONS: THE ORIGIN OF MIRROR VISION  
 **Jay Rosen - Honors Thesis**  
 **Fall 2013**  
